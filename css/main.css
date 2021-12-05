@@ -30,13 +30,14 @@ a{
     text-decoration: none;
     color: inherit;
 }
+
 /* 
     HEADER SECTION
 */
 
 header  {
     background-color: lightblue;
-    padding: 1rem;
+    padding: 1rem 1rem 1rem 0rem;
     height: 100vh;
 }
 
@@ -57,7 +58,8 @@ header h1 {font-size: 5rem;
 header p {
     font-size: 1.6rem;
     padding: 1rem 0;
-    border-bottom: 1px solid ;
+    border-bottom: 1px solid rgba(53, 53, 53, 0.247);
+
 }
 
 .rotate {
